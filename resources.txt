@@ -1,0 +1,11 @@
+Resources:
+
+https://discussions.udacity.com/t/summarizing-salary-information/318800/5
+https://discussions.udacity.com/t/help-with-creating-new-feature/319814/3
+https://discussions.udacity.com/t/explanation-of-the-features/319750/3
+https://discussions.udacity.com/t/why-only-15-percent-accuracy/319587/5
+https://discussions.udacity.com/t/naive-bayes-mini-project-help/313694
+https://discussions.udacity.com/t/naive-bayes-mini-project-where-is-the-dataset/313581/3
+https://discussions.udacity.com/t/real-size-of-dataset/298437/4
+https://discussions.udacity.com/t/confused-about-feature-selection-and-outliers/25018/4
+https://www.quora.com/What-is-the-best-way-to-understand-the-terms-precision-and-recall
